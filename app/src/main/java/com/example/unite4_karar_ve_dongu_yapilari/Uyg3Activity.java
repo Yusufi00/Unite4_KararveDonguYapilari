@@ -13,8 +13,8 @@ public class  Uyg3Activity extends AppCompatActivity {
     EditText editText_KullaniciAdi, editText_Sifresi;
     Button button_Onayla;
 
-    final String kullaniciAdi = "Arda";
-    final String sifre = "123";
+    final String kullaniciAdi = "Yusufi";
+    final String sifre = "1020";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

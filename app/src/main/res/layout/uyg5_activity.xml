@@ -57,7 +57,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button_Onayla"
+        android:id="@+id/btnOnayla"
         android:layout_width="125dp"
         android:layout_height="60dp"
         android:layout_marginEnd="29dp"
